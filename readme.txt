@@ -1,11 +1,13 @@
-Requierements for Cris Portal
+Harokopio University Cris v0.1 beta
+
+Requirements for Cris Portal
 
 apache
 mariadb (mysql)
 various apache modules (mail,ldap,etc)
 
 
-Requierements for Dspace repository //needed for storing Publications  
+Requirements for Dspace repository //needed for storing Publications  
 
 tomcat
 DSpace 
